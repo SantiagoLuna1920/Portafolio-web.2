@@ -2,7 +2,7 @@
     margin: 0px;
 }
 
-.first, .second {
+.first, .second, .third {
     height: 200px;
 }
 
@@ -13,4 +13,8 @@
 
 .second {
     background-color: green;
+}
+
+.third {
+    background-color: cyan;
 }
