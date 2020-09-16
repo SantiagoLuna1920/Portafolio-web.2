@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+}
+
+.first, .second {
+    height: 200px;
+}
+
+.first {
+    background-color: red;
+    position: relative;
+}
+
+.second {
+    background-color: green;
+}
