@@ -2,7 +2,7 @@
     margin: 0px;
 }
 
-.first, .second, .third {
+.first, .second, .third, .four {
     height: 200px;
 }
 
@@ -17,4 +17,8 @@
 
 .third {
     background-color: cyan;
+}
+
+.four {
+    background-color: darkblue;
 }
